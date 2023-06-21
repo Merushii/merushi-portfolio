@@ -42,7 +42,7 @@ function App() {
 
           <div className="container__profile-card" id="home">
             <div className="container__profile-card-person">
-              <img loading="lazy" src='src\assets\images\youwu.jpg'/>
+              <img loading="lazy" src='\images\youwu.jpg'/>
               <h3>Hola, soy Mercedes</h3>
               <h1>Diseñadora y desarrolladora web</h1>
             </div>
@@ -95,17 +95,17 @@ function App() {
         <section className="container__section-portfolio" id="portfolio">
           <h2>Portafolio</h2>
           <div className="container__section-portfolio__img">
-            <a href="https://coruscating-salamander-ba0d3f.netlify.app" target='_blanket'><img src="/src/assets/images/weather-app.png" alt="" /></a>
+            <a href="https://coruscating-salamander-ba0d3f.netlify.app" target='_blanket'><img src="images/weather-app.png" alt="" /></a>
 
-            <a href="https://steady-fairy-353e60.netlify.app" target='_blanket'><img src="/src/assets/images/perfume.png" alt="" /></a>
+            <a href="https://steady-fairy-353e60.netlify.app" target='_blanket'><img src="images/perfume.png" alt="" /></a>
 
-            <a href="https://jovial-croquembouche-dde99c.netlify.app" target='_blanket'><img src="/src/assets/images/users-crud.png" alt="" /></a>
+            <a href="https://jovial-croquembouche-dde99c.netlify.app" target='_blanket'><img src="images/users-crud.png" alt="" /></a>
 
-            <a href="https://adorable-sprinkles-cd9752.netlify.app" target='_blanket'><img src="/src/assets/images/rick-morty.png" alt="" /></a>
+            <a href="https://adorable-sprinkles-cd9752.netlify.app" target='_blanket'><img src="images/rick-morty.png" alt="" /></a>
 
-            <a href="https://thriving-bubblegum-7d58f9.netlify.app/pokedex" target='_blanket'><img src="/src/assets/images/pokedex.png" alt="" /></a>
+            <a href="https://thriving-bubblegum-7d58f9.netlify.app/pokedex" target='_blanket'><img src="images/pokedex.png" alt="" /></a>
 
-            <a href="https://creative-heliotrope-a15d40.netlify.app" target='_blanket'><img src="/src/assets/images/portfolio.png" alt="" /></a>
+            <a href="https://creative-heliotrope-a15d40.netlify.app" target='_blanket'><img src="images/portfolio.png" alt="" /></a>
           </div>
 
           <h3>Repositorios</h3>
