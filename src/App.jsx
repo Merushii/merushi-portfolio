@@ -127,7 +127,7 @@ function App() {
             <div className="icon">
               
             </div>
-            <p>Email</p>
+            <p>Email </p>
             <a href='mailto:pikapikagow@gmail.com'>pikapikagow@gmail.com</a>
           </div>
         </footer>
