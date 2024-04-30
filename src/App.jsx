@@ -42,7 +42,6 @@ function App() {
 
           <div className="container__profile-card" id="home">
             <div className="container__profile-card-person">
-              <img loading="lazy" src='\images\youwu.jpg'/>
               <h3>Hola, soy Mercedes</h3>
               <h1>Diseñadora y desarrolladora web</h1>
             </div>
